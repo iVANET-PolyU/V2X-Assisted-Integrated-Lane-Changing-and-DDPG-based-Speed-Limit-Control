@@ -1,5 +1,5 @@
 
------------------------------------connection method--------------------------------------
+-----------------------------------Start running--------------------------------------
 1 open Anaconda -- Powershell Prompt
 2 activate virtual enviromment "tensorflow", all required packets are installed in this enviromment.  
 (base)   >   conda activate tensorflow
@@ -8,8 +8,9 @@
 
 -------------
 if connect to omnet
+-------------
 5 open mingwenv.cmd, enter command: omnetpp
-6 Run python script (with traCI 2 clients mode)
+6 Run python script (with traCI multi-client mode)
 
 
 -------------------------------python script--------------------------------------
